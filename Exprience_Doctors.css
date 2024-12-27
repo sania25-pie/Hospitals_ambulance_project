@@ -1,0 +1,20 @@
+table, th, td {
+  border:1px solid black;
+ text-align: center;
+}
+
+table{
+	width:100%;
+	margin: auto;
+}
+body{
+	background-size: cover;
+	background-repeat: repeat;
+	background-position: center;
+    object-fit:cover;
+    background-attachment:fixed;
+	min-height: 120vh;
+	background-image: url("https://img.freepik.com/free-photo/flat-lay-watercolor-paper_23-2149061985.jpg");	
+	margin-left: 20%;
+	
+}

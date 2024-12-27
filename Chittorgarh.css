@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	font-size: 59px;
+	font-weight: 600;
+	color: #f25618;
+	margin-left: 0.1%;
+	margin-right: 10%;
+	}
+body{
+	background-size: cover;
+	background-repeat: repeat;
+	background-position: center;
+    object-fit:cover;
+    background-attachment:fixed;
+	min-height: 120vh;
+	background-image: url("https://media1.thrillophilia.com/filestore/lfzzd0l9a8ugbkkkcnra44qaxpfz_1604757284_shutterstock_1227338428.jpg");	
+	margin-left: 20%;
+	
+}
+.u1{
+	margin-left: 20%;
+}
+h2{
+	text-align: center;
+	font-size: 50px;
+	font-weight: 600;
+	color: #f25618;
+	margin-left: 0.1%;
+	margin-right: 10%;
+}

@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+ body{
+	
+	align-items:center;
+	font-family: 'Arial',bsans-sreif;
+	justify-content: center;
+	height: 110vh;
+	margin: 0;
+	background-color:#ffffff;
+	background-image: url("https://l450v.alamy.com/450v/2pwxyre/pediatrician-examines-sick-kids-and-baby-for-medical-development-vaccination-and-treatment-in-flat-cartoon-hand-drawn-templates-illustration-2pwxyre.jpg");
+    background-size: contain;
+    background-position: center center;
+	background-repeat: no-repeat;
+	color:black;
+	display: flex;
+	flex-direction: column;
+}
+
+/* .container{	
+	width: 300px;
+	padding: 20px;
+	border-radius: 10px;
+	border: 2px solid purple;
+	box-shadow: 0 0 10px rgha(0, 0, 1, 0.5);
+	text-align: center;
+	background-color:pink;
+} */
+h1{
+	text-align:center;
+	font-weight:bold;
+	color: #da2754;
+}
+label{
+	font-weight:bold;
+	display: block;
+	margin: 10px 0;
+	color: #000000;
+}
+input{
+	width: 100%;
+	padding: 10px;
+	margin: 15px;
+	box-sizing: border-box;
+	border: 2px solid purple;
+	font-size: 16px;
+	border-radius: 5px;
+}
+button{
+	width: 100%;
+	padding: 12px;
+	background-color: #007BFF;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 16px;
+	color: #fff;
+	transition:	background-color 0.3s ease, transform 0.3s ease;
+}
+a{
+	margin-bottom:10%; 
+	margin-right:5%;
+	margin-left:35%;
+	text-decoration: none;
+	color: #bf1c3d;
+	font-weight: bold;
+}
+a:hover {
+	color: #0056b3;
+	transform:scale(1.50);
+}
